@@ -1,4 +1,4 @@
-# Hi, I'm Luciano Ezequiel Soto Bonja
+# Hi, I'm Luciano Soto Bonja
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucianoezequielsotobonja/)
 
 🖥️ I am a full-stack developer.<br>👨‍🔬 My country of origin is Argentina.<br>☕ I'm addicted to coffee and love the burgers🍔
